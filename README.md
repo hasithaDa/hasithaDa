@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on **Restaurant Management System**
+- 🧑‍🎓 I’m an Undergraduate at **RUSL**
 
 - 🌱 I’m currently learning **MERN**
 
