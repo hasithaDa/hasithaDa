@@ -64,14 +64,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasithada&show_icons=true&locale=en" alt="hasithada" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasithada&theme=dark&hide_border=false&show_icons=true&locale=en" alt="hasithada" />
   <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithada&" alt="hasithada" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithada&&theme=dark&hide_border=false" alt="hasithada" />
 </td>
 
 <td width="50%" align="center">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithada&show_icons=true&locale=en&layout=compact" alt="hasithada" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithada&&theme=dark&hide_border=falseshow_icons=true&locale=en&layout=compact" alt="hasithada" />
   
   </td>
 </tr>
