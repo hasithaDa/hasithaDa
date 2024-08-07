@@ -35,10 +35,29 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hasithaDa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hasithaDa" /></a></p><br><br>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithada&show_icons=true&locale=en&layout=compact" alt="hasithada" /></p>
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasithada&show_icons=true&locale=en" alt="hasithada" />
+  <br></br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithada&" alt="hasithada" />
+</td>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasithada&show_icons=true&locale=en" alt="hasithada" /></p>
+<td width="50%" align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasithada&" alt="hasithada" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasithada&show_icons=true&locale=en&layout=compact" alt="hasithada" />
+  
+  </td>
+</tr>
+</table>
+
+</p>        
+<!--- stats (end) -->
+
+
 
