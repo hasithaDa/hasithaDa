@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [hasithada.me](hasithada.me)
 
-- 📝 I regularly write articles on [blogpost](https://medium.com/@hamdhasitha)
+- 📝 I regularly write articles on [Medium](https://medium.com/@hamdhasitha)
 
 - 💬 Ask me about **React, Python**
 
