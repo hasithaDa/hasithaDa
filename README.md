@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [hasithada.me](hasithada.me)
+- 👨‍💻 All of my projects are available at [hasithaDa](https://github.com/hasithaDa)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@hamdhasitha)
 
