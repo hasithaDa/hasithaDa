@@ -1,11 +1,21 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Hasitha+Darshana&hearts;++;Self-taught+Full-Stack+Developer,;IT+Undergraduate+Student,;Active+Learner/Researcher,;Mobile+App+Developer,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Hasitha+Darshana&hearts;++;Self-taught+Full-Stack+Developer,;IT+Undergraduate+Student,;Active+Learner/Researcher,;Mobile+App+Developer,;Love+to+learn+new+stuffs..<3">
+  </a>
 </p>
-<h3 align="center">Passionate IT Student | Full-stack Web Developer </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasithada&label=Profile%20views&color=0e75b6&style=flat" alt="hasithada" /> </p>
 
-<p align="center"> <a href="https://twitter.com/hasithada" target="blank"><img src="https://img.shields.io/twitter/follow/hasithada?logo=twitter&style=for-the-badge" alt="hasithada" /></a> </p>
+<h3 align="center">Passionate IT Student | Full-stack Web Developer </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+<p align="center">
+  <a href="https://twitter.com/hasithada" target="blank"><img src="https://img.shields.io/twitter/follow/hasithada?logo=twitter&style=for-the-badge" alt="hasithada" /></a>
+</p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hasithada&label=Profile%20views&color=0e75b6&style=flat" alt="hasithada" />
+</p>
 
 ---
 
@@ -37,7 +47,7 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"><b>Connect with me : </b></h3>
 <p align="center">
 <a href="https://twitter.com/hasithada" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="hasithada" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hasitha-da" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="hasitha-da" height="30" width="40" /></a>
@@ -50,7 +60,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools : </h3>
 <p align="center">
     <div align="center">
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -127,8 +137,7 @@
 
  ---
  
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/hasithaDa"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hasithaDa" /></a></p><br><br>
+<br><br>
 
 ---
 
