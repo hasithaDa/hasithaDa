@@ -106,6 +106,7 @@
             <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="30"/>
         </a>
     </div>
+    <br>
     <div align="center"> 
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
             <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="nestjs" width="40" height="30"/>
@@ -135,11 +136,9 @@
 </p>
 
 
- ---
- 
-<br><br>
 
----
+<be><be>
+<hr>
 
 <p align="center">
   <!--- stats (start) -->
