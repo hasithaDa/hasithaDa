@@ -31,7 +31,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@hamdhasitha)
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **React, Python, Java, PHP**
 
 - 📫 How to reach me **hamdhasith@gmail.com**
 
@@ -44,19 +44,6 @@
   </td>
 </tr>
 </table>
-
----
-
-<h3 align="center"><b>Connect with me : </b></h3>
-<p align="center">
-<a href="https://twitter.com/hasithada" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="hasithada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasitha-da" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="hasitha-da" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17046943" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="17046943" height="30" width="40" /></a>
-<a href="https://fb.com/hasitha darshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasitha darshana" height="30" width="40" /></a>
-<a href="https://instagram.com/hasithadar" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="hasithadar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hasithaonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasithaonline" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hamdhasitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hamdhasitha" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -135,6 +122,18 @@
     </div>
 </p>
 
+---
+
+<h3 align="center"><b>Connect with me : </b></h3>
+<p align="center">
+<a href="https://twitter.com/hasithada" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="hasithada" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasitha-da" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="hasitha-da" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17046943" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="17046943" height="30" width="40" /></a>
+<a href="https://fb.com/hasitha darshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasitha darshana" height="30" width="40" /></a>
+<a href="https://instagram.com/hasithadar" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="hasithadar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hasithaonline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hasithaonline" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@hamdhasitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hamdhasitha" height="30" width="40" /></a>
+</p>
 
 
 <be><be>
