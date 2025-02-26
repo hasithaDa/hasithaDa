@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **React, Python, Java, PHP**
 
-- 📫 How to reach me **hamdhasith@gmail.com**
+- 📫 How to reach me **hamdhasitha.me**
 
 </td>
 <td width="50%" align="center">
