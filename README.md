@@ -27,7 +27,7 @@
   <tr border="none">
   <td width="50%" align="left">
   
-  - 🧑‍🎓 I’m an Undergraduate at **RUSL**
+  - 🎓 I’m an Undergraduate at **RUSL**
   
   - 🌱 I’m currently learning **MERN**
   
@@ -84,7 +84,7 @@
 
 ## 🌐 Let's Connect!
 
-  <p align="center">
+  <p align="left">
     <a href="https://www.twitter.com/hasithada" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/hasitha-da/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" /></a> &nbsp;
     <a href="https://www.instagram.com/hasithadar" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30"/></a>
