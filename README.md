@@ -37,7 +37,7 @@
   
   - 💬 Ask me about **React, Python, Java, PHP**
   
-  - 📫 How to reach me **[hamdhasitha.me](https://hasitha.live/)**
+  - 📫 How to reach me **[hasitha.live](https://hasitha.live/)**
 
 </td>
 <td width="50%" align="center">
